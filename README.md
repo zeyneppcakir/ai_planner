@@ -1,13 +1,13 @@
-# 🤖 AI Planner (Flutter + Local LLM)
+# AI Planner (Flutter + Local LLM)
 
 AI Planner is an AI-assisted task management application built with **Flutter**.  
 It integrates a **locally running LLM (Qwen via Ollama)** to enhance productivity with intelligent task analysis and automatic tag generation.
 
-> ⚠️ This project is under active development.
+> This project is under active development.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 AI Planner allows users to:
 
@@ -21,7 +21,7 @@ The application explores how **local large language models (LLMs)** can be integ
 
 ---
 
-## 🧠 AI Integration
+## AI Integration
 
 - Local LLM integration using **Qwen (via Ollama)**
 - AI-powered automatic tag generation
